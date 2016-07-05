@@ -1,0 +1,7 @@
+G:\GitHub_PC\csharp-mysql-helper-library\zgh\bin\Debug\zgh.exe.config
+G:\GitHub_PC\csharp-mysql-helper-library\zgh\bin\Debug\zgh.exe
+G:\GitHub_PC\csharp-mysql-helper-library\zgh\bin\Debug\zgh.pdb
+G:\GitHub_PC\csharp-mysql-helper-library\zgh\bin\Debug\MySql.Data.dll
+G:\GitHub_PC\csharp-mysql-helper-library\zgh\obj\Debug\zgh.csprojResolveAssemblyReference.cache
+G:\GitHub_PC\csharp-mysql-helper-library\zgh\obj\Debug\zgh.exe
+G:\GitHub_PC\csharp-mysql-helper-library\zgh\obj\Debug\zgh.pdb

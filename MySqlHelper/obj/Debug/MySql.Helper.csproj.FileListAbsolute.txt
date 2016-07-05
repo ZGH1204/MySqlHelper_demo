@@ -1,0 +1,7 @@
+G:\GitHub_PC\csharp-mysql-helper-library\MySqlHelper\bin\Debug\MySqlHelper.XML
+G:\GitHub_PC\csharp-mysql-helper-library\MySqlHelper\bin\Debug\MySqlHelper.dll
+G:\GitHub_PC\csharp-mysql-helper-library\MySqlHelper\bin\Debug\MySqlHelper.pdb
+G:\GitHub_PC\csharp-mysql-helper-library\MySqlHelper\bin\Debug\MySql.Data.dll
+G:\GitHub_PC\csharp-mysql-helper-library\MySqlHelper\obj\Debug\MySql.Helper.csprojResolveAssemblyReference.cache
+G:\GitHub_PC\csharp-mysql-helper-library\MySqlHelper\obj\Debug\MySqlHelper.dll
+G:\GitHub_PC\csharp-mysql-helper-library\MySqlHelper\obj\Debug\MySqlHelper.pdb
